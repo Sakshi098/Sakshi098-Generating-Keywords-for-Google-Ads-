@@ -6,6 +6,6 @@ Having figured that out is a big part of the account setup and makes the life of
 
 This project generates a set of keywords for a furniture online retailer that can be used in Ad campaigns.
 
-This project uses python pandas library for genrating keywords.
+This project uses Python for generating keywords.
 
-This project can help digital marketing agency or any digital marketer to generate a set of keywords that they can use to sell their product by using right set of keywords.
+This project can help a digital marketing agency or any digital marketer to generate a right set of keywords that they can use to sell their product.
